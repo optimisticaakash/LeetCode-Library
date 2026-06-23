@@ -1,7 +1,7 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-        //Approach 1 : bruteforce 
+        
         int n = ratings.size();
         int candies = n;
 
@@ -34,7 +34,9 @@ public:
             //after completing mountain
             candies -= min(peak , dip);
         }
-
+        
         return candies;
+        //T.C : O(N)
+        //S.C : O(1)
     }
 };
