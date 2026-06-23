@@ -1,13 +1,12 @@
 class Solution {
 public:
-    //Approach1 : using left and right array
-    //T.C : O(3n)
-    //S.C :O(2n)
+    //Approach2: using single array
+    //T.C :O(2n)
+    //S.C :O(N) 
     int candy(vector<int>& ratings) {
         int n = ratings.size();
 
         vector<int> left(n , 0);
-        vector<int> right(n , 0);
 
         //left neighbours
         left[0] = 1;
@@ -20,20 +19,21 @@ public:
         }
 
         //right neighbours
-        right[n-1] = 1;
+        int curr = 1; int right = 1;
+        int total = max(1 , left[n-1]);
         for(int i = n-2; i >= 0; i--){
             if(ratings[i] > ratings[i+1]){
-                right[i] = right[i+1]+1;
+                curr = right+1;
+                right = curr;
             }else{
-                right[i] = 1;
+                curr = 1;
+                right = 1;
             }
+
+            total = total + max(curr , left[i]);
         }
 
-        int total = 0;
-
-        for(int i = 0; i < n; i++){
-            total += max(left[i] , right[i]);
-        }
+        
 
         return total;
     }
