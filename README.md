@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0509-fibonacci-number/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0509-fibonacci-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 <!---LeetCode Topics End-->
