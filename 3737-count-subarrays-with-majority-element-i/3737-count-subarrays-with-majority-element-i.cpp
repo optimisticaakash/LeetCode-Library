@@ -1,3 +1,4 @@
+//Approach4:Cummulative Sum/ prefix Sum
 class Solution {
 public:
     int countMajoritySubarrays(vector<int>& nums, int target) {
@@ -29,3 +30,5 @@ public:
         return cnt;
     }
 };
+//T.C : O(N^2)
+//S.C : O(1)
