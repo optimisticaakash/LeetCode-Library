@@ -72,3 +72,28 @@ public:
 };
 //T.C : O(N)
 //S.C : O(N)
+
+//Appraoch4: constant space
+class Solution {
+public:
+    int rob(vector<int>& nums) {
+        int n = nums.size();
+
+        int prevprev = 0; //no house
+        int prev = nums[0];//only 1 house
+
+        for(int i = 2; i<= n; i++){
+            int steal = nums[i-1] + prevprev;
+            int skip = prev;
+
+            int temp = max(steal , skip);
+
+            prevprev = prev;
+            prev = temp;
+        }
+
+        return prev;
+    }
+};
+//T.C : O(N)
+//S.C : O(1)
