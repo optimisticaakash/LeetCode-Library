@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/optimisticaakash/LeetCode-Library/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1840-maximum-building-height](https://github.com/optimisticaakash/LeetCode-Library/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0135-candy/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1840-maximum-building-height](https://github.com/optimisticaakash/LeetCode-Library/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
