@@ -47,3 +47,7 @@ public:
         return result;
     }
 };
+
+//T.C : O(n* log(log(m)))
+//where: m is the greatest element in the map
+//S.C : O(n)
