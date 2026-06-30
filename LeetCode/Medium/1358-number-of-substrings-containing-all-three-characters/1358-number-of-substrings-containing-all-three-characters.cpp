@@ -1,3 +1,4 @@
+//Approach2 : using sliding window
 class Solution {
 public:
     int numberOfSubstrings(string s) {
@@ -24,3 +25,6 @@ public:
         return result;
     }
 };
+
+//T.C :  O(2n)
+//s.C : O(1)
