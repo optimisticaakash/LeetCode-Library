@@ -1,49 +1,49 @@
 class Solution {
 public:
+    typedef long long ll;
     int maximumLength(vector<int>& nums) {
-        unordered_map<long long, int> freq;
+        int n = nums.size();
+        unordered_map<ll , int> mp; //ll isliye liye hai bcz x ki power badhte - badhte
+        // boht bada no ban skta hai 
 
-        for (int x : nums)
-            freq[x]++;
-
-        int ans = 1;
-
-        // Special case for 1
-        if (freq.count(1)) {
-            ans = max(ans, (freq[1] & 1) ? freq[1] : freq[1] - 1);
+        for(int &num: nums){
+            mp[num]++;
         }
 
-        for (auto &[start, cnt] : freq) {
-            if (start == 1) continue;
+        int result = 0;
 
-            long long cur = start;
+        //corner case for 1
+
+        if(mp[1]%2){
+            result = mp[1];
+        }else{
+            result = mp[1]-1;
+        }
+
+        //map pr iterate krenge and map key , value pair me hota hai to 
+
+        for(auto &[num,freq] : mp){//here hume freq se koi khaas mutlb nhi hai to empty bhi chod skte the
+
+            if(num == 1) continue; //already handled
+
+
+            ll curr = num;
             int len = 0;
 
-            while (true) {
-                auto it = freq.find(cur);
-
-                if (it == freq.end() || it->second < 2)
-                    break;
-
+            while(mp.count(curr) && mp[curr] > 1){
                 len += 2;
-
-                // long long overflow se bachao
-                if (cur > 3037000499LL)
-                    break;
-
-                cur = cur * cur;
+                curr = curr * curr;
             }
 
-            auto it = freq.find(cur);
+            if(mp.count(curr) && mp[curr] == 1){// here dont use mp[curr] == 1 bcz agar nhi hoga map me to  woh freq ko 0 set kr dega apne aap 
+                len += 1;
+            }else{
+                len -= 1;
+            }
 
-            if (it != freq.end() && it->second >= 1)
-                len++;
-            else
-                len--;
-
-            ans = max(ans, len);
+            result = max(result , len);
         }
 
-        return ans;
+        return result;
     }
 };
