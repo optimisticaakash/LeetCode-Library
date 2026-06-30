@@ -1,3 +1,29 @@
+//Approach1: using bruteforce
+class Solution {
+public:
+    int numberOfSubstrings(string s) {
+        int n = s.size();
+
+        //generate all substring and check count
+
+        int cnt = 0;
+        for(int i = 0; i < n; i++){
+            unordered_set<char> st;
+            for(int j = i; j < n; j++){
+                st.insert(s[j]);
+
+                if(st.size() == 3) cnt++;
+            }
+
+            
+        }
+
+        return cnt;
+    }
+};
+//T.C :  O(N^2)
+//S.C : O(1)
+
 //Approach2 : using sliding window
 class Solution {
 public:
