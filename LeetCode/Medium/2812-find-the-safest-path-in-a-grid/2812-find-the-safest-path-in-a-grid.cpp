@@ -1,3 +1,4 @@
+//Approach: using bfs + binarysearch
 class Solution {
 public:
     bool check(vector<vector<int>>& distNearestThief , int sf){
@@ -52,7 +53,7 @@ public:
         vector<vector<bool>> visited( n , vector<bool>(n,false));
 
         //push all theives in the queue
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < n; i++){//O(n*n)
             for(int j = 0; j < n; j++){
                 if(grid[i][j] == 1){
                     que.push({i , j});
@@ -65,7 +66,7 @@ public:
         while(!que.empty()){
             int size = que.size(); //current level me kitne node hai 
 
-            while(size--){
+            while(size--){//O(n*n)
                 int curr_i = que.front().first;
                 int curr_j = que.front().second;
                 que.pop();
@@ -93,10 +94,10 @@ public:
         int high = 400;
         int result = 0;
 
-        while(low <= high){
+        while(low <= high){//logn
             int mid = low + (high-low)/2;
 
-            if(check(distNearestThief , mid)){
+            if(check(distNearestThief , mid)){//O(n*n)
                 result = mid;
                 low = mid+1;
             }else{
@@ -107,3 +108,5 @@ public:
         return result;
     }
 };
+//T.C : O(logn * n*n)
+//s.C :  O(n*n)
