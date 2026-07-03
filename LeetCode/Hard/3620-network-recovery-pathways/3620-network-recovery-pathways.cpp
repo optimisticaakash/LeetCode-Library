@@ -1,3 +1,4 @@
+//Approach: binary Search + dijkstra
 class Solution {
 public:
     typedef pair<long long,int> P;
@@ -66,11 +67,11 @@ public:
         }
         int answer = -1;
         
-        while(low <= high){
+        while(low <= high){//log(high- low)
             int mid = low + (high-low)/2;
 
 
-            if(check(mid , n , k , adj)){
+            if(check(mid , n , k , adj)){ // o(ElogV)
                 answer = mid;
                 low = mid+1;
             }else{
@@ -82,3 +83,6 @@ public:
 
     }
 };
+
+//T.C : O(log(high - low) * O(ElogV))
+//s.C : O(N + edges)
