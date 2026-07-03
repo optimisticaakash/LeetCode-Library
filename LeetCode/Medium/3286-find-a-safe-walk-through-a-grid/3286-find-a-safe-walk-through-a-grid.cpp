@@ -1,48 +1,51 @@
 class Solution {
 public:
-    int n , m;
-    vector<vector<int>> best;//store krega maximum health kisi cell tk pahuchne ki 
+    typedef pair<int,pair<int,int>> P;
+    bool findSafeWalk(vector<vector<int>>& grid, int health) {
+        int n = grid.size();
+        int m = grid[0].size();
 
-    vector<vector<int>> dir = {{-1 , 0} , {1 , 0} , {0 , -1} , {0 , 1}};
-    bool dfs(vector<vector<int>>& grid ,int i , int j , int health){
-        //outside
-        if(i < 0 || j < 0 || i >= n || j >= m) 
-            return false;
+        priority_queue<P , vector<P> , greater<P>> pq;//cost , row , col
 
-        //unsafe hoga to health kam hojyegi wrna same rhegi
-        health -= grid[i][j];
-
-        if(health <= 0)
-            return false;
+        vector<vector<int>> dist(n , vector<int>(m , INT_MAX));
         
-        if(i == n-1 && j == m-1) return true;
+        //starting cell me bhi health kam ho skti hai 
+        dist[0][0] = grid[0][0];
+        pq.push({dist[0][0] , {0 , 0 }});
 
-        if(best[i][j] != -1 && best[i][j] >= health){
-            return false;
-        }
+        //4 directions
+        int drow[] = {-1 , 1 , 0 , 0};
+        int dcol[] = {0 , 0 , -1 , 1};
 
-        best[i][j] = health;
+        while(!pq.empty()){
+            auto it = pq.top();
+            pq.pop();
 
-        //explore all 4 dir
-        for(vector<int> &vec: dir){
-            int new_i = i + vec[0];
-            int new_j = j + vec[1];
+            int cost = it.first;
+            int row = it.second.first;
+            int col = it.second.second;
 
-            if(dfs(grid , new_i , new_j , health)){
-                return true;
+            if(cost > dist[row][col])
+                continue;
+            
+            for(int i = 0; i < 4; i++){
+                int nrow = row + drow[i];
+                int ncol = col + dcol[i];
+
+                if(nrow < 0 || ncol < 0 || nrow > n-1 || ncol > m-1)
+                    continue;
+                
+                //destination cell ka weight
+                int newcost = cost + grid[nrow][ncol];
+
+                if(newcost < dist[nrow][ncol]){
+                    dist[nrow][ncol] = newcost;
+
+                    pq.push({newcost , {nrow , ncol}});
+                }
             }
         }
-        return false;
-    }
-    bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        n = grid.size();
-        m = grid[0].size();
 
-
-        best.assign(n , vector<int>(m , -1));
-
-        bool ans = dfs(grid ,0 , 0 , health);   
-
-        return ans;
+        return dist[n-1][m-1] < health;
     }
 };
