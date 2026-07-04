@@ -41,3 +41,51 @@ public:
 };
 //T.C : O(V+E)
 //S.C : O(V+E)
+
+//Approach2: bfs
+class Solution {
+public:
+    typedef pair<int,int> P;
+    int minScore(int n, vector<vector<int>>& roads) {
+        
+        unordered_map<int,vector<P>> adj;
+
+        //making the adjacency list
+        for(auto& road:roads){
+            int u = road[0];
+            int v = road[1];
+            int dist = road[2];
+
+            adj[u].push_back({v , dist});
+            adj[v].push_back({u, dist});
+        } 
+
+        vector<bool>visited(n+1 ,false);
+
+        int result = INT_MAX;
+        queue<int> q;
+        q.push(1);
+        visited[1] = true;
+
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+
+            for(auto& it: adj[node]){
+                int currnode = it.first;
+                int d = it.second;
+
+                result = min(result , d);
+
+                if(!visited[currnode]){
+                    q.push(currnode);
+                    visited[currnode] = true;
+                }
+            }
+        }
+
+        return result;
+    }
+};
+//T.C : O(V+E)
+//S.C : O(V+E)
