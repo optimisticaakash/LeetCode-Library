@@ -1,3 +1,4 @@
+//Approach1 : dfs
 class Solution {
 public:
     typedef pair<int,int> P;
@@ -38,3 +39,5 @@ public:
         return result;
     }
 };
+//T.C : O(V+E)
+//S.C : O(V+E)
