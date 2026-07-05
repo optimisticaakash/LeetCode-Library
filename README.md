@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/optimisticaakash/LeetCode-Library/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1840-maximum-building-height](https://github.com/optimisticaakash/LeetCode-Library/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0509-fibonacci-number/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
