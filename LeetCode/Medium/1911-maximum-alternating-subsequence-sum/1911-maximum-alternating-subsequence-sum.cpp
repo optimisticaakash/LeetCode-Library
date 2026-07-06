@@ -1,3 +1,33 @@
+//Approach1: recursion
+class Solution {
+public:
+    typedef long long ll;
+    ll solve(int idx , vector<int>& nums , bool isEven){
+
+        if(idx >= nums.size()) return 0;
+
+        ll skip = solve(idx+1 , nums , isEven);
+
+        ll val = nums[idx];
+
+        if(isEven == false){
+            val = -val;
+        }
+
+        ll take = solve(idx+1 , nums , !isEven) + val;
+
+        return max(skip , take);
+    }
+    long long maxAlternatingSum(vector<int>& nums) {
+        int n = nums.size();
+
+        return solve(0 ,nums ,  true);// 0 : even index , true : + 
+    }
+};
+//T.C : O(2^n)
+//S.C : O(n)
+
+//Approach: recursion+memoization
 class Solution {
 public:
     typedef long long ll;
@@ -28,3 +58,5 @@ public:
         return solve(0 ,nums ,  true);// 0 : even index , true : + 
     }
 };
+//T.C : O(2n)
+//s.C : O(n)
