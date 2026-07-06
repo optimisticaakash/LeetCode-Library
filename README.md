@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/optimisticaakash/LeetCode-Library/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1840-maximum-building-height](https://github.com/optimisticaakash/LeetCode-Library/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0509-fibonacci-number/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
