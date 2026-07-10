@@ -1,3 +1,30 @@
+//Approach1: bruteforce
+class TreeAncestor {
+public:
+    vector<int>p;
+    TreeAncestor(int n, vector<int>& parent) {
+        p = parent;
+    }
+    
+    int getKthAncestor(int node, int k) {
+        while(node != -1 && k > 0){
+            node = p[node];
+            k--;
+        }
+        return node;
+    }
+};
+
+/**
+ * Your TreeAncestor object will be instantiated and called as such:
+ * TreeAncestor* obj = new TreeAncestor(n, parent);
+ * int param_1 = obj->getKthAncestor(node,k);
+ */
+
+//t.C : O(Q * k ) 
+//S.C : O(n)
+
+//Approach2: binary lifting 
 class TreeAncestor {
 public:
     vector<vector<int>>ancestorTable;
@@ -38,6 +65,9 @@ public:
         return node;
     }
 };
+
+//T.C : O(Q* log2(n))
+//S.C : O(N * log2n))
 
 /**
  * Your TreeAncestor object will be instantiated and called as such:
