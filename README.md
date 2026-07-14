@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0509-fibonacci-number/) | Easy |
 | [1840-maximum-building-height](https://github.com/optimisticaakash/LeetCode-Library/tree/main/1840-maximum-building-height/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -209,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
