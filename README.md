@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0509-fibonacci-number/) | Easy |
 | [1840-maximum-building-height](https://github.com/optimisticaakash/LeetCode-Library/tree/main/1840-maximum-building-height/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -216,4 +217,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
