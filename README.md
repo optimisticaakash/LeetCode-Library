@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0135-candy/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -241,4 +243,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
