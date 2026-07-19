@@ -5,8 +5,8 @@ public:
         vector<int>LastIndex(26,0);
         vector<bool>taken(26,false);
 
-        string result;
-
+        stack<char>st;    
+    
         //filling LastIndex
         for(int i = 0; i < n; i++){
             char ch = s[i];
@@ -21,14 +21,23 @@ public:
 
             if(taken[idx] == true) continue;
 
-            while(result.length() > 0 && result.back() > ch && LastIndex[result.back() -'a'] > i){
-                taken[result.back() -'a'] = false;
-                result.pop_back();
+            while(!st.empty() > 0 && st.top() > ch && LastIndex[st.top() -'a'] > i){
+                taken[st.top() -'a'] = false;
+                st.pop();
             }
 
-            result.push_back(ch);
+            st.push(ch);
             taken[idx] = true;
         }
+
+        string result;
+
+        while(!st.empty()){
+            result += st.top();
+            st.pop();
+        }
+        
+        reverse(result.begin() , result.end());
 
         return result;
     }
