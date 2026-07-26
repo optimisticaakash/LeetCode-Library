@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [1260-shift-2d-grid](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1840-maximum-building-height](https://github.com/optimisticaakash/LeetCode-Library/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
