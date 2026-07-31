@@ -1,22 +1,23 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int result = 0;
+        int n = word.size();
 
-        unordered_map<int,int> mp; 
-
-        int assign_key = 2;
+        vector<int> mp(26,0);
 
         for(char &ch : word){
+            mp[ch-'a']++;
+        }
 
-            if(assign_key > 9){
-                assign_key = 2;
-            }
+        sort(mp.begin() , mp.end() , greater<int>()); //descending
 
-            mp[assign_key]++;
-            result += mp[assign_key];
+        int result = 0;
+        for(int i = 0; i < n; i++){
+            int freq = mp[i];
 
-            assign_key++;
+            int press = i/8+1;
+
+            result += (press *freq);
         }
 
         return result;
