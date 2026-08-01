@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
