@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
+| [3731-find-missing-elements](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Divide and Conquer
