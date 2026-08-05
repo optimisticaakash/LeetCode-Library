@@ -81,4 +81,4 @@ public:
     }
 };
 //T.C : O(n + T) T : no of element between minEl and maxEl
-//S.C : O(K) k : no of missing elements
+//S.C : O(1) k : no of missing elements
