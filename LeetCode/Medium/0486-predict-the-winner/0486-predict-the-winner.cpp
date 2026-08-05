@@ -1,3 +1,4 @@
+//Approach1: recursion
 class Solution {
 public:
     int solve(int i , int j , vector<int>& nums){
@@ -25,3 +26,5 @@ public:
         return player1_score >= player2_score;
     }
 };
+//T.C : O(2^n)
+//S.C : O(N)
