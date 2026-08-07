@@ -10,11 +10,10 @@ public:
         return prod;
     }
     int smallestNumber(int n, int t) {
-        while(n > 0){
-            if(findDigitProd(n) % t == 0){
-                return n;
+        for(int i = n; i <= n+10; i++){
+            if(findDigitProd(i)%t == 0){
+                return i;
             }
-            n++;
         }
 
         return -1;
