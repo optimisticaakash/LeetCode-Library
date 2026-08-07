@@ -4,6 +4,8 @@ public:
         int prod = 1;
         while(num > 0){
             prod *= num%10;
+            if(prod == 0) return 0;
+            
             num/=10;
         }
 
