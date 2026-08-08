@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Math
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1911-maximum-alternating-subsequence-sum/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
