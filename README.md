@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
+| [0704-binary-search](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
