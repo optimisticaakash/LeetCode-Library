@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
