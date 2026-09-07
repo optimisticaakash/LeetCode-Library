@@ -1,3 +1,31 @@
+//Approach1: recursion
+class Solution {
+public:
+    int solve(string &s, string &t , int  m , int n){
+        if(n == 0) return 1;
+
+        if(m == 0) return 0;
+
+        if(s[m-1] == t[n-1]){
+            return solve(s, t , m-1 , n-1) + solve(s,t , m-1 , n);
+        }else{
+            return solve(s , t , m-1 , n);
+        }
+
+        return -1;
+    }
+    int numDistinct(string s, string t) {
+        int m = s.length();
+        int n = t.length();
+
+
+        return solve(s , t , m , n);
+    }
+};
+
+//T.C : O(n+m)
+
+//Approach2: recursion+memoization
 class Solution {
 public:
     typedef unsigned long long ull;
