@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0198-house-robber/) | Medium |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -355,5 +357,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
