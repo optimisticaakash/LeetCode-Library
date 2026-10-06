@@ -1,29 +1,25 @@
 class Solution {
 public:
-    int BinarySearch(vector<int>& nums , int low , int high , int target){
-        int n = nums.size();
+    int BS(vector<int>& nums , int low , int high , int target){
+        //base case
+        if(low > high) return -1;
 
-        
+        int mid = low + (high - low)/2;
 
-        while(low <= high){
-            int mid = low + (high-low)/2;
-
-            if(nums[mid] == target){
-                return mid;
-            }else if(nums[mid] < target){
-                low = mid+1;
-            }else{
-                high = mid-1;
-            }
+        if(nums[mid] == target){
+            return mid;
+        }else if(nums[mid] < target){
+            return BS(nums , mid+1 , high , target);
+        }else{
+            return BS(nums , low , mid-1 , target);
         }
-
-        return -1;
     }
     int search(vector<int>& nums, int target) {
         int n = nums.size();
 
         int low = 0;
         int high = n-1;
-        return BinarySearch(nums, low , high , target);
+
+        return BS(nums , low , high , target);
     }
 };
