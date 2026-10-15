@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0135-candy](https://github.com/optimisticaakash/LeetCode-Library/tree/main/0135-candy/) | Hard |
 | [0189-rotate-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
