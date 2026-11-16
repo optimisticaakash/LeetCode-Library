@@ -3,7 +3,7 @@ public:
     string digitSum(string s, int k) {
 
         while(s.length() > k){
-            string nextString;
+            string nextString  = "";
 
             int n = s.length();
 
@@ -17,7 +17,7 @@ public:
                 nextString += to_string(sum);
             }
 
-            s = nextString;
+            s = move(nextString);
         }
 
         return s;
