@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/optimisticaakash/LeetCode-Library/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
